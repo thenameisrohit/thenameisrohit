@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/14uYjKf-w91HD8xwttfCtn2rO51cInzfa/view?usp=sharing](https://drive.google.com/file/d/14uYjKf-w91HD8xwttfCtn2rO51cInzfa/view?usp=sharing)
-
+- 👨‍💻 All of my projects are available at https://thenameisrohhit.netlify.app/
 - 💬 Ask me about **AWS, React.js, Next.js, SQL-NoSQL**
 
 - 📫 How to reach me **rohitpatil3873@gmail.com**
